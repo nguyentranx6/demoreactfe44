@@ -12,7 +12,10 @@ class ChangeCarColor extends Component {
     }
     //Git add .
     //git commit -m "Buoi 2 - Event binding va Handle State"
-    //
+    //git checkout -b buoi2_eventbiding
+    //git push -u origin buoi2_eventbiding
+    //git checkout master
+    //git push
     render() {
         return (
             <div className="container">
