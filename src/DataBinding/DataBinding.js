@@ -15,13 +15,17 @@ class DataBinding extends Component {
     objectStyle = {
             fontweight: 'bold'
     };
+    //Lệnh Git
+    // git checkout -b name_branch tạo Nhánh
+    // git branch // kiểm tra nhánh
+
     render() {
         let title = 'ABC - FE44';
         let src = 'https://picsum.photos/400/300'
         let lentRender = function () {
             return <h1>Hello</h1>
         }
-
+        console.log('test')
         return (
 
             <div>
